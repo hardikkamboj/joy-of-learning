@@ -27,3 +27,10 @@ The light perception happens in the **retina** region of the eye. which lines th
 
 
 Also, what I refer to it as, that rods and cones capture different qualities of the scene, cones is much more interested in capturing the color, brighness and hue of the scene, where rods capture the shapes, distance and other basic characterisitics of the scene. 
+
+
+**Figure 2.2**
+<br>
+![](images/figure_2_2.jpeg)
+The above figure shows the density of cones and rods in the cross-section of the right eye. 
+- The disitribution is almost symmetrical about Fovea (present at 0 degrees), but there is a point at around 20 degrees (left of Fovea in the figure) called the blind spot. This is the region where optic nerve is connected to the eye and hence, no receptors are present at this region. 
