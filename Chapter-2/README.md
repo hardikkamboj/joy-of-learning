@@ -1,16 +1,29 @@
 # Chapter-2 Digital Images Format 
 
-## 28-01-2022 - Brighness Adaptation
+## 28-01-2022 
 
 ### The Structure of the eye 
 The eye is really a wonder of nature, so perfect it works, and I am going to start my new journey studying a bit about this beautiful machine. How humans percieve
 vision is of a great interest to us. The human eye has 3 membrane structure, one of them is retina, which forms the part of the eye where the images are 
 formed inside the eye. It percieves this image and sends the signal to the brain (how brilliant). 
 
-It has two types of receptors, cones and rods. Cones are sensitive to the color and focus on the high level features. The vision related to cones is known as  **photopic vision**. 
+The light perception happens in the **retina** region of the eye. which lines the inside walls of the poserior region. It has two types of receptors, cones and rods. It's also very interesting to see how these two acts as two dfferent types of receptors. 
 
-Rods capture overall image of the field of view. They capture the low level features. This type of vision is known as **scotopic vision**. 
+ **Cones**
+- There are about 6-7 million in numbers, mostly located in the central region of the retina (known as Fovea, also check the diagram below)/
+- They are highly sensitive to the color. 
+- Each cone is connected to a nerve end and hence they can resolve fine details of the scene. 
+- Cone Vision is known as <i>photopic</i> or <i>bright light vision</i>.
+
+**Rods**
+- There are about 75 to 150 million rods present in each eye (yes, much much larger)
+- They don;t have a separate nerve ending for each cell and several rods are connected to a single nerve ending, th is reduces the information that is carried forward and hence rods capture the overall image of the field of view. 
+- They are not involved in color visoin and are sensitive to low levels of illumination. 
+- Rods vision is known as <i>scotopic </i> or <i>dim-light </i>
+
+
 
 "Objects that appear colored during the day, appear as colorless forms in the moonlight" and now you know why, because for the latter, only the rods are stimulated. 
 
 
+Also, what I refer to it as, that rods and cones capture different qualities of the scene, cones is much more interested in capturing the color, brighness and hue of the scene, where rods capture the shapes, distance and other basic characterisitics of the scene. 
