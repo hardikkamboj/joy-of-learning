@@ -63,3 +63,16 @@ The human eye can adapt to a large intensity levels, from the scotopic limit to 
 As we have seen in the previous section that vision perception is done through cones and rods and the type of vision is named as photopic and scotopic vision respectively. 
 
 In the graph below, we can see that there is a logarithmic relationship between the subjective brightness (intensity as percieved as the human visual system) and light intensity incident on the eye. 
+
+![Figure 2.4](images/figure_2_4.jpeg)
+
+The question arises that if our eyes are able to adjust to such vast range of intensities, why do we have that phenonmenon discussed at the starting of this section. The answer to this the eyes cannot operate on such a vast range **simontaneously**. It accomplished this variation by changing it's overall sensitivity, a phenomenon known as **brightness adjustment**. 
+
+So, the big fat line that is given in the graph, this variation of intensities can't be seen simontaneously by our human eye. But if one looks at the another line given in the graph, at brightness level <img src="https://latex.codecogs.com/svg.image?B_{a}" title="B_{a}" />, this represents the range of brightness that our eyes can see simontaneously. 
+
+At a given intensity range, the current sensitivity level of the visual system is called the brightnesss adaptaion level. When the brightness adaptation level is <img src="https://latex.codecogs.com/svg.image?B_{a}" title="B_{a}" /> the eye can adjust to the brightness represented by the given intersecting curve (which is small comapred to the overall range). 
+
+At this level, the eyes can percieve brighntess as low as <img src="https://latex.codecogs.com/svg.image?B_{a}" title="B_{b}" />, below then that everything would be black. Now we know what was happening when we entered the theater. 
+
+This brightness adaptaion level keeps on changing and our eyes keeps adjusting and the life goes on !! 
+
