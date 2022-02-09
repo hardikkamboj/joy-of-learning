@@ -23,10 +23,7 @@ The light perception happens in the **retina** region of the eye. which lines th
 - They are not involved in color visoin and are sensitive to low levels of illumination. 
 - Rods vision is known as <i>scotopic </i> or <i>dim-light </i>
 
-
-
 "Objects that appear colored during the day, appear as colorless forms in the moonlight" and now you know why, because for the latter, only the rods are stimulated. 
-
 
 Also, what I refer to it as, that rods and cones capture different qualities of the scene, cones is much more interested in capturing the color, brighness and hue of the scene, where rods capture the shapes, distance and other basic characterisitics of the scene. 
 
@@ -55,3 +52,14 @@ One interesting thing to note here is that the fovea contains about 265,000 cone
 ![Figure 2.3](images/figure_2_3.jpeg)
 
 One can even try it practically, if you know the length of the screen in front of you and also the distance of the screen from the eyes, then using hte formulae in the above image we can calculate the length of the intverted image formed in the retina. 
+
+
+### Brightness Adaptation and Discrimation
+
+Whenever we go to movies, and enter the theater, it takes some time for the eyes to adjust and before that everything appears very dark. But after some time, we are able to see the different compoenents inside the theater, like the stairs and the curtains, which was not visible before. This is the phenomenon we are going to study in this section. 
+
+The human eye can adapt to a large intensity levels, from the scotopic limit to the glare limit. 
+
+As we have seen in the previous section that vision perception is done through cones and rods and the type of vision is named as photopic and scotopic vision respectively. 
+
+In the graph below, we can see that there is a logarithmic relationship between the subjective brightness (intensity as percieved as the human visual system) and light intensity incident on the eye. 
