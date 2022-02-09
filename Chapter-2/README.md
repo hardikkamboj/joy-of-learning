@@ -52,5 +52,4 @@ One interesting thing to note here is that the fovea contains about 265,000 cone
 - And this happens so effortlessly. If you are seeing the screen right now, and just look at the background (wall or whatever) then the eye will automatically change the focal length of the eye such that the image is formed on the back of retina, isn't brilliant, how efforotlessly it happens. 
 - The next cool thing is that we can also find the length of the image formed inside the retina. 
 
-<br>
-![](images/figure_2_3.jpeg)
+![Figure 2.3](images/figure_2_3.jpeg)
