@@ -1,6 +1,8 @@
 # Chapter-2 Digital Images Format 
 
-## 28-01-2022 
+## 2.1 - Elements of Visual Perception
+
+### 28-01-2022 
 
 ### The Structure of the eye 
 The eye is really a wonder of nature, so perfect it works, and I am going to start my new journey studying a bit about this beautiful machine. How humans percieve
@@ -40,3 +42,15 @@ The above figure shows the density of cones and rods in the cross-section of the
 - Rode are more uniformly located then cones, their density increases in density from center out to approximately <img src="https://latex.codecogs.com/svg.image?20^{\circ}" title="20^{\circ}" /> off axis. Then, their density decreases out to the periphery of the retina.
 
 One interesting thing to note here is that the fovea contains about 265,000 cones. So, this much amount of ligh sensors. It's many isn't. But here comes the interesting thing, **Most electronic imaging chips exceed this number by a large factor**.
+
+### 09-02-2022 
+
+### Image Formation in the eye 
+- There's a difference between how an ordinary photographic camera focusses on object to how an human eye would do it. 
+- In case of a camera, the lens has a fixed focal lenght and the image is formed on the film (imaging chip, or retina of the camera) by varying the distance between the lens and the film. 
+- However in the case of human eye, this distance is fixed (between the lens and retina). In this case, the image is formed on the retina by chanding the shape and hence the focal length of the lens is adjusted such that image is formed on the retian. 
+- And this happens so effortlessly. If you are seeing the screen right now, and just look at the background (wall or whatever) then the eye will automatically change the focal length of the eye such that the image is formed on the back of retina, isn't brilliant, how efforotlessly it happens. 
+- The next cool thing is that we can also find the length of the image formed inside the retina. 
+
+<br>
+![](images/figure_2_3.jpeg)
