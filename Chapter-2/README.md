@@ -37,4 +37,6 @@ The above figure shows the density of cones and rods in the cross-section of the
 - The disitribution is almost symmetrical about Fovea (present at 0 degrees), but there is a point at around 20 degrees (left of Fovea in the figure) called the blind spot. This is the region where optic nerve is connected to the eye and hence, no receptors are present at this region. 
 - The Fovea here represents a circular region in the retina and has an area of about 1.7 mm squares. 
 - Cones are mostly located in the center area of fovea. 
-- Rode are more uniformly located then cones, their density increases in density from center out to approximately <img src="https://latex.codecogs.com/svg.image?20^{\circ}" title="20^{\circ}" /> off axis. Then, their density decreases out to the periphery of the retina. 
+- Rode are more uniformly located then cones, their density increases in density from center out to approximately <img src="https://latex.codecogs.com/svg.image?20^{\circ}" title="20^{\circ}" /> off axis. Then, their density decreases out to the periphery of the retina.
+
+One interesting thing to note here is that the fovea contains about 265,000 cones. So, this much amount of ligh sensors. It's many isn't. But here comes the interesting thing, **Most electronic imaging chips exceed this number by a large factor**.
