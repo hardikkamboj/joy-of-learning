@@ -32,5 +32,9 @@ Also, what I refer to it as, that rods and cones capture different qualities of 
 **Figure 2.2**
 <br>
 ![](images/figure_2_2.jpeg)
+
 The above figure shows the density of cones and rods in the cross-section of the right eye. 
 - The disitribution is almost symmetrical about Fovea (present at 0 degrees), but there is a point at around 20 degrees (left of Fovea in the figure) called the blind spot. This is the region where optic nerve is connected to the eye and hence, no receptors are present at this region. 
+- The Fovea here represents a circular region in the retina and has an area of about 1.7 mm squares. 
+- Cones are mostly located in the center area of fovea. 
+- Rode are more uniformly located then cones, their density increases in density from center out to approximately <img src="https://latex.codecogs.com/svg.image?20^{\circ}" title="20^{\circ}" /> off axis. Then, their density decreases out to the periphery of the retina. 
