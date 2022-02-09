@@ -53,3 +53,5 @@ One interesting thing to note here is that the fovea contains about 265,000 cone
 - The next cool thing is that we can also find the length of the image formed inside the retina. 
 
 ![Figure 2.3](images/figure_2_3.jpeg)
+
+One can even try it practically, if you know the length of the screen in front of you and also the distance of the screen from the eyes, then using hte formulae in the above image we can calculate the length of the intverted image formed in the retina. 
