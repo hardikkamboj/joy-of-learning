@@ -76,3 +76,24 @@ At this level, the eyes can percieve brighntess as low as <img src="https://late
 
 This brightness adaptaion level keeps on changing and our eyes keeps adjusting and the life goes on !! 
 
+### 21-02-2022 
+
+### Brightness Discrimination 
+
+- **Defination**
+Brightness Discrimation means the ability to discriminate between changes in light intensity at a specific apaptation level. 
+
+- **Experiment** 
+A classical experiement to study brightness discrimination is done by placing a large opaque glass, large enough to fill the whole of occupy the entire field of view. This opaque glass has an intensity <img src="https://latex.codecogs.com/svg.image?I" title="I" /> (which is variable). 
+
+In the center of this field, a flash of intensity <img src="https://latex.codecogs.com/svg.image?I&space;&plus;&space;\Delta&space;I&space;" title="I + \Delta I " /> is flashed out in the form of a circle. 
+
+Now, our main interest lies at what value of <img src="https://latex.codecogs.com/svg.image?\Delta&space;I&space;" title="\Delta I " /> is a human able to differentiate the change. 
+
+The ratio <img src="https://latex.codecogs.com/svg.image?\frac{\Delta&space;I_{c}}{I}&space;" title="\frac{\Delta I_{c}}{I} " />, where <img src="https://latex.codecogs.com/svg.image?\Delta&space;I_{c}" title="\Delta I_{c}" /> is increment of illumination discriminable 50% of the time with background illumination I, is called **Weber Ratio**. 
+
+If the weber ratio is **high**, it means that a large change is required for the change to be percievable, which means that the Brightness Discrimation is **poor** , on the other hand, if weber ratio is **low**, this means that a small change in illumination is required for that given intensity, for a change to be percievable, and hence Brightness Discrimination is **good**. 
+
+- **Plot of weber ratio with given Intensity level** 
+
+
