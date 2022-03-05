@@ -2,7 +2,8 @@
 
 ## 2.1 - Elements of Visual Perception
 
-### 28-01-2022 
+<hr>
+28-01-2022 
 
 ### The Structure of the eye 
 The eye is really a wonder of nature, so perfect it works, and I am going to start my new journey studying a bit about this beautiful machine. How humans percieve
@@ -40,7 +41,8 @@ The above figure shows the density of cones and rods in the cross-section of the
 
 One interesting thing to note here is that the fovea contains about 265,000 cones. So, this much amount of ligh sensors. It's many isn't. But here comes the interesting thing, **Most electronic imaging chips exceed this number by a large factor**.
 
-### 09-02-2022 
+<hr>
+09-02-2022 
 
 ### Image Formation in the eye 
 - There's a difference between how an ordinary photographic camera focusses on object to how an human eye would do it. 
@@ -76,7 +78,8 @@ At this level, the eyes can percieve brighntess as low as <img src="https://late
 
 This brightness adaptaion level keeps on changing and our eyes keeps adjusting and the life goes on !! 
 
-### 21-02-2022 
+<hr>
+21-02-2022 
 
 ### Brightness Discrimination 
 
@@ -96,4 +99,33 @@ If the weber ratio is **high**, it means that a large change is required for the
 
 - **Plot of weber ratio with given Intensity level** 
 
+(to be completed) 
 
+<hr> 
+05-03-2022 
+
+## Light and the Electromagnetic Spectrum
+
+### Electromagnetic Spectrum
+EM spectrum refers to the distribution of waves, wrt to wavelength or frequency. A wave can be represented by Wavelength and frequency, which are related by 
+
+<img src="http://latex.codecogs.com/svg.latex?\lambda&space;=&space;\frac{c}{\nu&space;}" title="http://latex.codecogs.com/svg.latex?\lambda = \frac{c}{\nu }" />, where c is the speed of light. 
+
+Energy of a component of EM spectrum with a frequency <img src="http://latex.codecogs.com/svg.latex?\nu" title="http://latex.codecogs.com/svg.latex?\nu" /> is given by - 
+
+<img src="http://latex.codecogs.com/svg.latex?E&space;=&space;h\nu" title="http://latex.codecogs.com/svg.latex?E = h\nu" />, where h is plank's constant. 
+
+- Waves having more frequency (lower wavelength) have more energy. 
+- In the EM spectrum, gamma rays have the most energy followed by X-rays, where radio waves have the lowest energy. 
+
+### More about the visible band 
+Light is a type of EM spectrum which can be detected by the eye, this falls under the range of 0.43 <img src="http://latex.codecogs.com/svg.latex?\mu&space;m" title="http://latex.codecogs.com/svg.latex?\mu m" /> to 0.79 <img src="http://latex.codecogs.com/svg.latex?\mu&space;m" title="http://latex.codecogs.com/svg.latex?\mu m" />
+
+- The sequenece of colors in the Visible band are as follows - Violet, Blue, Green, Yellow, Orange and Red. Although these colors don't end aburuptly, it's a continous change and one color bends smooothly into the next. 
+
+### How Colors are percieved 
+- The color percieved by us in an object is defined by the nature of light reflected by the object. 
+- An object appearing Green will reflect the waves with wavelengths in the range of green color, while absorbing the rest. An objcet appearing white would absorb / reflect each color in (almost) same propotion. 
+
+### Achromatic and Chromatic Light
+- Light that is 
