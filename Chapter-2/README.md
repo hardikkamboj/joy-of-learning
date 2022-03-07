@@ -128,4 +128,10 @@ Light is a type of EM spectrum which can be detected by the eye, this falls unde
 - An object appearing Green will reflect the waves with wavelengths in the range of green color, while absorbing the rest. An objcet appearing white would absorb / reflect each color in (almost) same propotion. 
 
 ### Achromatic and Chromatic Light
-- Light that is 
+- Light that is void of a color is known as monochromatic ( achhromatic light), it can be characterized by intensity, which is also known as gray-level
+- Unlike achromatic light, chromatic light contains color. It is characterized by Radiance, Luminance and brightness. 
+
+### Generating Images in other bands 
+As discussed earlier, human eyes can only see the electromagnetic waves which fall in the region of Visible Range. But, can we "see" waves belonging to the rest of the spectrum? 
+
+In principle, if we can develop a sensor that is capable of detecting energy radiated in a band of the electromagnetic spectrum, we can image the events interest in that band. So, we can have specific sensor, for example, to capture x-rays, then we can "see" X-rays as well. (Not from the naked eye though). 
