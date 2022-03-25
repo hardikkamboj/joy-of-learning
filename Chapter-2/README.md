@@ -134,4 +134,36 @@ Light is a type of EM spectrum which can be detected by the eye, this falls unde
 ### Generating Images in other bands 
 As discussed earlier, human eyes can only see the electromagnetic waves which fall in the region of Visible Range. But, can we "see" waves belonging to the rest of the spectrum? 
 
-In principle, if we can develop a sensor that is capable of detecting energy radiated in a band of the electromagnetic spectrum, we can image the events interest in that band. So, we can have specific sensor, for example, to capture x-rays, then we can "see" X-rays as well. (Not from the naked eye though). 
+In principle, if we can develop a sensor that is capable of detecting energy radiated in a band of the electromagnetic spectrum, we can image the events interest in that band. So, we can have specific sensor, for example, to capture x-rays, then we can "see" X-rays as well. (Not from the naked eye though).
+
+
+<hr> 
+25-03-2022 
+
+## Image Aquisition 
+
+### How are Images formed 
+
+There are two main components associated with formation of images, one is illumniation of the ligth from the source, now this source is not just limited to visible light, but it can be anything like X-rays, or Infrared rays. The second component is refelction or absorption (transmission through) of the energy from the source by the objects. Examples for reflection and transmission through are images formed by visible rays, and x-rays respectively. 
+
+### Using Single Sensing element to convert energy into digital images
+Energy once gathered is then converted to Digital signals using single sensing element (shown in the figure). 
+
+The single sensing element contains a Sensing Material that is response to the type of energy being detected. A filter is used to filter out the incident enegy for selectivity. The output of a Sensing Material is a voltage proportional to the energy intensity. 
+
+The Single Sensing Element can be used in different combinations to acquire images - 
+
+- ### Using one Single Sensing Element 
+  In this case, there has a be a relative displacement between the x and y directions between the sensor and area to be imaged, a sample architecture for it is displayed in the figure below. 
+  
+- ### Using Sensor Strips 
+  A sensor strip is a linear combination of Single Sensing Elements. In this case we only require the movement between the sensor and area to be imaged only in one direction. 
+  
+  A more popular use of Sensor strips is using it in a ring formations which is also used in many medical use cases like MRI and PET. This can be seen in the figure below. 
+  
+- ### Using Image Arrays 
+In this case, we are using a 2-D array of Single Sensing Elements, and this is the method used in digital cameras. No motion is required in this case. 
+
+
+
+
