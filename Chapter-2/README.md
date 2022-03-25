@@ -158,15 +158,19 @@ The Single Sensing Element can be used in different combinations to acquire imag
 - ### Using one Single Sensing Element 
   In this case, there has a be a relative displacement between the x and y directions between the sensor and area to be imaged, a sample architecture for it is displayed in the figure below. 
   
-![](images/figure_2_13_c.jpeg)
+![](images/figure_2_13_3.jpeg)
   
 - ### Using Sensor Strips 
   A sensor strip is a linear combination of Single Sensing Elements. In this case we only require the movement between the sensor and area to be imaged only in one direction. 
   
   A more popular use of Sensor strips is using it in a ring formations which is also used in many medical use cases like MRI and PET. This can be seen in the figure below. 
+  ![](images/figure_2_14.jpeg)
+
   
 - ### Using Image Arrays 
-In this case, we are using a 2-D array of Single Sensing Elements, and this is the method used in digital cameras. No motion is required in this case. 
+  In this case, we are using a 2-D array of Single Sensing Elements, and this is the method used in digital cameras. No motion is required in this case. 
+  
+  ![](images/figure_2_15.jpeg)
 
 
 
