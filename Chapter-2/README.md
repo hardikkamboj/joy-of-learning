@@ -153,8 +153,12 @@ The single sensing element contains a Sensing Material that is response to the t
 
 The Single Sensing Element can be used in different combinations to acquire images - 
 
+![](images/figure_2_13_1.jpeg)
+
 - ### Using one Single Sensing Element 
   In this case, there has a be a relative displacement between the x and y directions between the sensor and area to be imaged, a sample architecture for it is displayed in the figure below. 
+  
+![](images/figure_2_13_c.jpeg)
   
 - ### Using Sensor Strips 
   A sensor strip is a linear combination of Single Sensing Elements. In this case we only require the movement between the sensor and area to be imaged only in one direction. 
