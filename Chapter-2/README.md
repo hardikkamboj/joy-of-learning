@@ -173,5 +173,10 @@ The Single Sensing Element can be used in different combinations to acquire imag
   ![](images/figure_2_15.jpeg)
 
 
+<hr> 
+07-04-2022 
 
+### Sample Image Formation Model 
+
+Mathematically, images can be represented as a two-dimensional function, f(x,y). Where f is a scalar quantity for a given spatial coordinate (x,y). Further f(x,y) can be represented as a product of i(x,y) and r(x,y), where i and r are the amount of illumination incident from the source, and the amount of illumination reflected (or transmitted) by the object in the scene. And this is how Images can be represented mathematically. 
 
