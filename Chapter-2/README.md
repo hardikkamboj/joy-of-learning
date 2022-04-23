@@ -180,3 +180,16 @@ The Single Sensing Element can be used in different combinations to acquire imag
 
 Mathematically, images can be represented as a two-dimensional function, f(x,y). Where f is a scalar quantity for a given spatial coordinate (x,y). Further f(x,y) can be represented as a product of i(x,y) and r(x,y), where i and r are the amount of illumination incident from the source, and the amount of illumination reflected (or transmitted) by the object in the scene. And this is how Images can be represented mathematically. 
 
+<hr> 
+23-04-2022 
+
+## Image Sampling and Quantization 
+The output of the image returned from image sensors are continous sensed data. To convert it to digital images, we require two processes, Sampling and Quantization. 
+
+### Sampling 
+Sampling refers to the process of dividing continous image into x,y coordinates. The method of sampling is determined by the sensor arrangement used to generate the image. This converts the continous image into grid like structure, where each component is called as pixel, and is the basic component of an image. 
+
+### Quanitzation 
+Quantization refers to the process of digitizing the amplitude values. In this step, each pixel is assigned a discrete intensity level. Before applying the process of Quantization, amplitude could belong to any value in a continous range, but after this, there are only discrete values to which it can belong. 
+
+- Representing Sampling and Quantization Mathematically - 
