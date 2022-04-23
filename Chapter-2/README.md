@@ -199,3 +199,4 @@ Quantization refers to the process of digitizing the amplitude values. In this s
 - Representing Sampling and Quantization Mathematically - 
 
 ![](https://latex.codecogs.com/svg.image?f(x,y)) is a digital image if ![](https://latex.codecogs.com/svg.image?(x,y)&space;) are integers from ![](https://latex.codecogs.com/svg.image?Z^2) and f is a function which assigns an intensity value to each distinct pair of coordinates (x,y). This functional assignment is the quantization. 
+
