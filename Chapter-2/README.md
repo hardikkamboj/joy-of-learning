@@ -193,3 +193,5 @@ Sampling refers to the process of dividing continous image into x,y coordinates.
 Quantization refers to the process of digitizing the amplitude values. In this step, each pixel is assigned a discrete intensity level. Before applying the process of Quantization, amplitude could belong to any value in a continous range, but after this, there are only discrete values to which it can belong. 
 
 - Representing Sampling and Quantization Mathematically - 
+
+![](https://latex.codecogs.com/svg.image?f(x,y)) is a digital image if ![](https://latex.codecogs.com/svg.image?(x,y)&space;) are integers from ![](https://latex.codecogs.com/svg.image?Z^2) and f is a function which assigns an intensity value to each distinct pair of coordinates (x,y). This functional assignment is the quantization. 
