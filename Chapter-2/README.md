@@ -184,7 +184,11 @@ Mathematically, images can be represented as a two-dimensional function, f(x,y).
 23-04-2022 
 
 ## Image Sampling and Quantization 
-The output of the image returned from image sensors are continous sensed data. To convert it to digital images, we require two processes, Sampling and Quantization. 
+As we saw in the last topic, an image can be represented as a function f(x,y), where (x,y) are spatial coordinates and f is the intensity levels at (x,y). Now furthur, images can be of two types classified on the basis on what the values x,y and f corresponds to. An image can either be 
+1. Analog Image 
+2. Digital Image 
+
+In Analog image the values x,y and f are continous, and in digital images these values are discrete. To convert an image from analog to digital, we require the two processed of Sampling and Quanitzation. 
 
 ### Sampling 
 Sampling refers to the process of dividing continous image into x,y coordinates. The method of sampling is determined by the sensor arrangement used to generate the image. This converts the continous image into grid like structure, where each component is called as pixel, and is the basic component of an image. 
