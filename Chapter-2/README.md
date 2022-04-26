@@ -200,3 +200,14 @@ Quantization refers to the process of digitizing the amplitude values. In this s
 
 ![](https://latex.codecogs.com/svg.image?f(x,y)) is a digital image if ![](https://latex.codecogs.com/svg.image?(x,y)&space;) are integers from ![](https://latex.codecogs.com/svg.image?Z^2) and f is a function which assigns an intensity value to each distinct pair of coordinates (x,y). This functional assignment is the quantization. 
 
+<hr> 
+26-04-2022
+
+## Representaion of Digital Images 
+
+As we have seen in previous topics that images can be represented as f(x,y). There are 3 methods to represent this - 
+- Representing as 3d plot: The first method is to represent it as a 3-d figure with the x,y coordinates being the (x,y) value, and z coordinate representing the value of f. This is mostly used for gray scale images. 
+- Representing as it would appear in a Computer Screen or photograph: This is the most comomon used format this method can also be used for color images. 
+- Representing as matrices: This representation uses the mathematical values of the image, and is used for computer processing. 
+
+I also made a mini project on this, [Gray Scale Images in 3d](https://github.com/hardikkamboj/GrayImages-in-3d)
