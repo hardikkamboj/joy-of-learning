@@ -101,6 +101,8 @@ If the weber ratio is **high**, it means that a large change is required for the
 
 (to be completed) 
 
+Resources - https://www.youtube.com/watch?v=ADqMYzo4J24&list=PLEOl5Hpac2ByN5ZZto22-SnwZoXIzC_T3&index=4
+
 <hr> 
 05-03-2022 
 
@@ -200,6 +202,8 @@ Quantization refers to the process of digitizing the amplitude values. In this s
 
 ![](https://latex.codecogs.com/svg.image?f(x,y)) is a digital image if ![](https://latex.codecogs.com/svg.image?(x,y)&space;) are integers from ![](https://latex.codecogs.com/svg.image?Z^2) and f is a function which assigns an intensity value to each distinct pair of coordinates (x,y). This functional assignment is the quantization. 
 
+Resources - https://www.youtube.com/watch?v=jd6FWes1Ybw&list=PLEOl5Hpac2ByN5ZZto22-SnwZoXIzC_T3&index=5&t=1982s
+
 <hr> 
 26-04-2022
 
@@ -224,3 +228,10 @@ Spatial Resolution is a measure of the smallest discernible detail in an image. 
 Intensity resolution refers to the smallest discernible change in intensity level. 
 
 For a given image f(x,y), spatial resolution is related the the values (x,y) and Intensity resolution is related to the values of f. Most commong values of intensity resoltion are 8 and 16 bits, while 32 bits are also used but rarely. 
+
+
+## Interpolation 
+
+Suppose we have a (2x2) pixels image and we want to zoom it to (5x5)
+
+Video to follow - https://www.youtube.com/watch?v=AqscP7rc8_M
