@@ -232,6 +232,15 @@ For a given image f(x,y), spatial resolution is related the the values (x,y) and
 
 ## Interpolation 
 
-Suppose we have a (2x2) pixels image and we want to zoom it to (5x5)
+Suppose we have a (2x2) pixels image and we want to zoom it to (5x5) 
+
+![](images/interpolation.png) 
+
+The orignial image contains 4 pixel values, while the zoomed image contains 25, even if we transfer the 4 values, we have 21 empty places in our zoomed image. If the image is left as it is now, it would just appear as a black image. We somehow need to fill the empty values in 5x5 image. And this is where Interpolatoin comes into the picture. 
+
+Interpolation is the process of using known data to estimate values at unknown locations. The different types of interpolation techniques are - 
+- Nearest neighbour Interpolation: In this the value of the nearest neighbour is used to estimate the intensity at a given location. 
+- Bilinear Interpolation: In this we use the four nearest neighbour to estimate the intensity at a given location. 
+- Bicubic Interpolation: In this, we use 16 nearest neighbours. 
 
 Video to follow - https://www.youtube.com/watch?v=AqscP7rc8_M
