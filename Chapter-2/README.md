@@ -244,3 +244,14 @@ Interpolation is the process of using known data to estimate values at unknown l
 - Bicubic Interpolation: In this, we use 16 nearest neighbours. 
 
 Video to follow - https://www.youtube.com/watch?v=AqscP7rc8_M
+
+<hr> 
+29-04-2022
+
+## Neighbors of a pixel 
+Neighbours, as in the literal meaning, refers to the nearby pixels of particular pixel. It is represented by a set of pixels. 
+
+For a pixel p at position (x,y), there can be three types of neighbours, 
+- 4 neighbours of p, represented by ![](https://latex.codecogs.com/svg.image?N_{4}(p)), contains the two horizontal and vertical neighbours of p. ![](https://latex.codecogs.com/svg.image?N_{4}(p)) = { (x+1,y), (x-1,y), (x,y+1), (x,y-1) } 
+- Diagonal neighbours of p, represented by ![](https://latex.codecogs.com/svg.image?N_{D}(p)), contains the 4 diagonal pixels of p. ![](https://latex.codecogs.com/svg.image?N_{D}(p)) is represented by { (x-1,y-1), (x+1, y-1), (x+1,y-1), (x+1,y+1)}
+- 8 neighbors of p, represented by ![](https://latex.codecogs.com/svg.image?N_{8}(p)), is the union of ![](https://latex.codecogs.com/svg.image?N_{4}(p)) and ![](https://latex.codecogs.com/svg.image?N_{D}(p))
