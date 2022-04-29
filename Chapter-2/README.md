@@ -281,4 +281,9 @@ It took me some time to understand what this m-adjacency really signifies. Well,
 It's a path ( or a line) drawn from one pixel (p at ![](https://latex.codecogs.com/svg.image?(x_{0}&space;,&space;y_{0}))) to other pixel (q at ![](https://latex.codecogs.com/svg.image?(x_{n}&space;,&space;y_{n}))). Basically, digital path is a collection of pixels with a property that any two adjacent (the english adjacent), are ADJACENT (the one we studied above). The type of digital path depends on the type of Adjacency being used, so we can have m-path or 8 path etc. 
 
 
+### Regions
+
+A Region R, can be described as a Subset of pixels in an image. Two regions can either be adjacent, if any two pixels between then are adjacent, or to speak more technically, union of the two regions form a Connected Set, else they are disjoint. 
+
+
 
