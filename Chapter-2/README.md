@@ -274,3 +274,11 @@ There are three types of adjacency -
 
 It took me some time to understand what this m-adjacency really signifies. Well, it's just to cover the ambuiguity that is caused by 8-adjacency. For example in the figure shown below the middle pixel has multiple 8-adjacency, which may cause trouble if we are looking for a digital path (discussed below), so, in this case, m-adjacency shown on the right side, removes this ambiguity. And folks, that's how m-adjacency comes into the picture. 
 
+![](images/m-adjacency.png)
+
+### Digital Path 
+
+It's a path ( or a line) drawn from one pixel (p at ![](https://latex.codecogs.com/svg.image?(x_{0}&space;,&space;y_{0}))) to other pixel (q at ![](https://latex.codecogs.com/svg.image?(x_{n}&space;,&space;y_{n}))). Basically, digital path is a collection of pixels with a property that any two adjacent (the english adjacent), are ADJACENT (the one we studied above). The type of digital path depends on the type of Adjacency being used, so we can have m-path or 8 path etc. 
+
+
+
