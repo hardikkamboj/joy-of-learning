@@ -255,3 +255,22 @@ For a pixel p at position (x,y), there can be three types of neighbours,
 - 4 neighbours of p, represented by ![](https://latex.codecogs.com/svg.image?N_{4}(p)), contains the two horizontal and vertical neighbours of p. ![](https://latex.codecogs.com/svg.image?N_{4}(p)) = { (x+1,y), (x-1,y), (x,y+1), (x,y-1) } 
 - Diagonal neighbours of p, represented by ![](https://latex.codecogs.com/svg.image?N_{D}(p)), contains the 4 diagonal pixels of p. ![](https://latex.codecogs.com/svg.image?N_{D}(p)) is represented by { (x-1,y-1), (x+1, y-1), (x+1,y-1), (x+1,y+1)}
 - 8 neighbors of p, represented by ![](https://latex.codecogs.com/svg.image?N_{8}(p)), is the union of ![](https://latex.codecogs.com/svg.image?N_{4}(p)) and ![](https://latex.codecogs.com/svg.image?N_{D}(p))
+
+
+## Adjancy, Connectivity, Regions and Boundaries 
+
+### Adjacency 
+
+The set V: The set V is the set of intensity values used to define adjacency. For example, for binary image V = {1}, ie only pixels with value 1 are to be considered for checking adjacency. If intensity range is from 0 to 255, then V can be a subset like {1,2,3,4,5}, in this case all the pixels with values in V are considered for checking adjacency. 
+
+Adjancy is related to two pixels, let's consider those two pixels to be p and q.
+
+There are three types of adjacency - 
+- 4-adjacency: if p and q have values from V, and q is in set ![](https://latex.codecogs.com/svg.image?N_{4}(p)) 
+- 8-adjacency: if p and q have values from V, and q is in set ![](https://latex.codecogs.com/svg.image?N_{8}(p)) 
+- m-adjacency: Two pixels p and q with values from V are m-adjacent if 
+  - q is in ![](https://latex.codecogs.com/svg.image?N_{4}(p)) or 
+  - q is in ![](https://latex.codecogs.com/svg.image?N_{D}(p)) and the set ![](https://latex.codecogs.com/svg.image?N_{4}(p)&space;\cup&space;N_{4}(q)) has no pixels whose values are from V. 
+
+It took me some time to understand what this m-adjacency really signifies. Well, it's just to cover the ambuiguity that is caused by 8-adjacency. For example in the figure shown below the middle pixel has multiple 8-adjacency, which may cause trouble if we are looking for a digital path (discussed below), so, in this case, m-adjacency shown on the right side, removes this ambiguity. And folks, that's how m-adjacency comes into the picture. 
+
