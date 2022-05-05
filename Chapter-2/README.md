@@ -286,4 +286,26 @@ It's a path ( or a line) drawn from one pixel (p at ![](https://latex.codecogs.c
 A Region R, can be described as a Subset of pixels in an image. Two regions can either be adjacent, if any two pixels between then are adjacent, or to speak more technically, union of the two regions form a Connected Set, else they are disjoint. 
 
 
+<hr> 
+05-05-2022
 
+I have been lazy enough to not note down my progress in the past few days, Will make sure to not repeat it in future. Will have to write a lot, but here we go. 
+
+### Distance Measures 
+Well, I didn't knew before reading this that for a function D to be a distance function, it has to follow some properties. For some given point p,q, and s with coordinates (x,y), (u,v) and (w,z) respectively, D is a distance function if, 
+
+- D(p,q) >= 0 (equality holds if p and q are equal)
+- D(p,q) = D(q,p) 
+- D(p,s) <= D(p,q) + D(q,s)
+
+Also, discussed about different possible types of Distance functions. It can be Euclid, then city-block distance, and chessboard distance. 
+
+## Introduction to the basic mathematical tools used in Digital Image Processing 
+
+### Elementwise versus Matrix operations
+
+Elementwise opearations here are the simple operations which are applied pixel by pixel, on the other hand, matrix operations have their own rules, for example in the matrix multiplication. (but I guess it's much more useful) 
+
+### Linear and non linear operaitons 
+
+Then comes another classicifation in which an operation can be classified as linear or non-linear operatoin. A function which follows the property of additivity and homogenity is classied as linear, and if not, it's classified as non linear. 
