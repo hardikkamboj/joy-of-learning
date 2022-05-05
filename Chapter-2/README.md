@@ -309,3 +309,10 @@ Elementwise opearations here are the simple operations which are applied pixel b
 ### Linear and non linear operaitons 
 
 Then comes another classicifation in which an operation can be classified as linear or non-linear operatoin. A function which follows the property of additivity and homogenity is classied as linear, and if not, it's classified as non linear. 
+
+### Arithmetic Operations 
+
+In this I got to know about how simple operations, like addition, subtraction, multiplication and division are used on images and also what should we take care about while using arithmetic operations on Images. Also, I tried to make application for each of the use case (failed in some as well).
+
+- Addition Operations: To illustrate this, I made a program called ![Removing Noise by averaging](https://github.com/hardikkamboj/Removing_noise_using__averaging) which removes the Gaussian Noise by averaging n number of images, with the quality of final image becoming better as n increases. 
+- Subtraction Operation: There are a couple of use cases discussed in the book for the subtraction operation, I tried to work on the Spot-the-difference problem to use this operation, but unfortunately, I wasn't able to get it working. For this to work, the two images should be of the exact same size, which is a bit difficult here since i have to crop the pictures from a single image. So, stopped working on this. But then there were cases like Mask Mode radiography which was discussed in the book.
