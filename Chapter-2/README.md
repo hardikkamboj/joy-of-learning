@@ -316,3 +316,6 @@ In this I got to know about how simple operations, like addition, subtraction, m
 
 - Addition Operations: To illustrate this, I made a program called ![Removing Noise by averaging](https://github.com/hardikkamboj/Removing_noise_using__averaging) which removes the Gaussian Noise by averaging n number of images, with the quality of final image becoming better as n increases. 
 - Subtraction Operation: There are a couple of use cases discussed in the book for the subtraction operation, I tried to work on the Spot-the-difference problem to use this operation, but unfortunately, I wasn't able to get it working. For this to work, the two images should be of the exact same size, which is a bit difficult here since i have to crop the pictures from a single image. So, stopped working on this. But then there were cases like Mask Mode radiography which was discussed in the book.
+
+NOTE: 
+One thing that we have to make sure while using arithmetic operaitons is that the values should be beyond the maximum and minimum values for that particular intensity level. For example, for 8-bit images, we have to make sure that after the arithmetic operations are applied the values shuold be transformed back to the range of 0-255. 
