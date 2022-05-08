@@ -319,3 +319,13 @@ In this I got to know about how simple operations, like addition, subtraction, m
 
 NOTE: 
 One thing that we have to make sure while using arithmetic operaitons is that the values should be beyond the maximum and minimum values for that particular intensity level. For example, for 8-bit images, we have to make sure that after the arithmetic operations are applied the values shuold be transformed back to the range of 0-255. 
+
+
+<hr> 
+08-05-2022
+
+### Set and Logical Operations
+
+I have studied set and logical operations in school and college, so, this was a peice of cake. What i read new here was how set operations are used for images, also went through the concept of Logical Operations. 
+
+
