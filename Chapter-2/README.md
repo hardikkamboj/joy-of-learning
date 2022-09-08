@@ -320,6 +320,7 @@ In this I got to know about how simple operations, like addition, subtraction, m
 NOTE: 
 One thing that we have to make sure while using arithmetic operaitons is that the values should be beyond the maximum and minimum values for that particular intensity level. For example, for 8-bit images, we have to make sure that after the arithmetic operations are applied the values shuold be transformed back to the range of 0-255. 
 
+<b>RESUMING AFTER A GAP of 4 months </b>
 
 <hr> 
 08-05-2022
