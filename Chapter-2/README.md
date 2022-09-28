@@ -343,3 +343,6 @@ The three types of spatial operations -
   As the name suggests, the function maps pixel to pixel. That is some sort of transformation. Ex. reducing the pixels by half, or subtracting 10 fromp pixel values. 
 - ### Neighbourhood Operations:
   In this type of operations, a pixel is modified based on its neighbours. Ex. A pixel can be replaced by the average of it's pixels which will result in blurring of an image. 
+  
+<hr>
+28-09-2022
