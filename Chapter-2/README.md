@@ -346,3 +346,11 @@ The three types of spatial operations -
   
 <hr>
 28-09-2022
+
+## Affine Transformation
+
+I started by watching the video of 3blue1brown on Linear Transformation, and damn that was amazing. The visualizations used in the video was just amazing. [This is the video](https://www.youtube.com/watch?v=kYB8IZa5AuE&list=PL0-GT3co4r2y2YErbmuJw2L5tW4Ew2O5B&index=4) I am talking about.
+
+[I wrote a kaggle notebook](https://www.kaggle.com/code/kambojharyana/linear-affine-transformation-in-python) which will give the intuition of Linear Transformation and also how it is applied on images.
+
+Also, lastly, I spent a good amount of time in making [this](https://github.com/hardikkamboj/affine_transformation_python), which is a GUI which allows us to play around with the different values of elements of the transformation matrix. It was real fun making this, and [I also posted it on linkedin](https://www.linkedin.com/posts/hardik-kamboj-61288b19b_imageprocessing-python-ugcPost-6980908592459636736-j_1-?utm_source=share&utm_medium=member_desktop). It's actually very cool, on how linear transformations, which basically boils down to matrix multiplication, causes the image to change it's shape, translate and rotate. 
