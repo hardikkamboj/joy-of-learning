@@ -354,3 +354,16 @@ I started by watching the video of 3blue1brown on Linear Transformation, and dam
 [I wrote a kaggle notebook](https://www.kaggle.com/code/kambojharyana/linear-affine-transformation-in-python) which will give the intuition of Linear Transformation and also how it is applied on images.
 
 Also, lastly, I spent a good amount of time in making [this](https://github.com/hardikkamboj/affine_transformation_python), which is a GUI which allows us to play around with the different values of elements of the transformation matrix. It was real fun making this, and [I also posted it on linkedin](https://www.linkedin.com/posts/hardik-kamboj-61288b19b_imageprocessing-python-ugcPost-6980908592459636736-j_1-?utm_source=share&utm_medium=member_desktop). It's actually very cool, on how linear transformations, which basically boils down to matrix multiplication, causes the image to change it's shape, translate and rotate. 
+
+<hr>
+
+11-10-2022 
+
+## Image Registration
+
+Today I read about Image registration. 
+- The problem that we are trying to solve here involves two images, both of them are capturing the same scene, but due to the difference in time or maybe the angle, they are not align.
+- Actually, earlier in my journey, when I was studying algebric operations on images, I had made a project on Image additon, and how it remvoes Gaussian Noise which has 0 mean, and I wanted to repeat it for subtraction, and how image subtraction can be used for solving the problem of "FIND THE DIFFERENCES BETWEEN THE TWO IMAGES", but only when I started I got to know that I can't just subtract them, they have to align first. 
+- In Image registration, this is what we are trying to do. The end goal here is to find the matrix, that can be used to linear transform the image to be the same as reference image. 
+- To find this matrix, we have to know atleast 4 try points, these are the points which are similar in both the original image and refernce image. We can provide it, or it can be calculated automatically by algorithms. 
+- Once we have the matrix, we can use it for linear transfomrmation and get the aligned image. I guess now I can focus back on the project :) 
