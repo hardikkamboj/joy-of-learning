@@ -376,3 +376,4 @@ Today I read about Image registration.
 
 - Finally after working for some time now, the project I was working on is complete now, here's the [repo](https://github.com/hardikkamboj/Spot-the-difference) 
 
+![RESULT](images/result.gif)
