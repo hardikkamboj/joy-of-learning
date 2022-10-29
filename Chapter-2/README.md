@@ -367,3 +367,12 @@ Today I read about Image registration.
 - In Image registration, this is what we are trying to do. The end goal here is to find the matrix, that can be used to linear transform the image to be the same as reference image. 
 - To find this matrix, we have to know atleast 4 try points, these are the points which are similar in both the original image and refernce image. We can provide it, or it can be calculated automatically by algorithms. 
 - Once we have the matrix, we can use it for linear transfomrmation and get the aligned image. I guess now I can focus back on the project :) 
+
+<hr> 
+
+29-10-2022 
+
+## Project using Image Registration: Spot the difference 
+
+- Finally after working for some time now, the project I was working on is complete now, here's the [repo](https://github.com/hardikkamboj/Spot-the-difference) 
+
