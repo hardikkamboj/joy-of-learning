@@ -390,3 +390,7 @@ Today I read about Image registration.
 - Once we make the modification, we can convert the image back to spatial domain by using the inverse transform. 
   
   ![Image Transforms](images/image_transforms.png)
+  
+There is another section which gives an introduction to the probablistic models which are used in Image Processing. 
+
+### END OF CHAPTER-02 Theory (FINAAALLLYYYY), took a really long time, hope I would be more consistent with it now. 
