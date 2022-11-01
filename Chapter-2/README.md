@@ -377,3 +377,14 @@ Today I read about Image registration.
 - Finally after working for some time now, the project I was working on is complete now, here's the [repo](https://github.com/hardikkamboj/Spot-the-difference) 
 
 ![RESULT](images/result.gif)
+
+<h>
+
+01-11-22 
+
+## Image Transforms
+
+- As of now we were working with images in spatial domain.
+- We can also convert (transform) the given image into another domain, known as transfer domain. 
+- In this domain we can do several modifications which was not possible in the spatial domain. 
+- Once we make the modification, we can convert the image back to spatial domain by using the inverse transform. 
