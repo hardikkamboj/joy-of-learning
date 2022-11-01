@@ -388,3 +388,5 @@ Today I read about Image registration.
 - We can also convert (transform) the given image into another domain, known as transfer domain. 
 - In this domain we can do several modifications which was not possible in the spatial domain. 
 - Once we make the modification, we can convert the image back to spatial domain by using the inverse transform. 
+  
+  ![Image Transforms](images/image_transforms.png)
