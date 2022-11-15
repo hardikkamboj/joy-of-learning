@@ -394,3 +394,6 @@ Today I read about Image registration.
 There is another section which gives an introduction to the probablistic models which are used in Image Processing. 
 
 ### END OF CHAPTER-02 Theory (FINAAALLLYYYY), took a really long time, hope I would be more consistent with it now. 
+
+NOTE: 
+I have decided that I will not be going through the exercises, instead I will try to move to the next chapter, create projects, and video content. 
